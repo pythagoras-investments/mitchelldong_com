@@ -1,0 +1,100 @@
+---
+layout: default
+---
+
+<div class="home">
+  
+  
+ <div class="col col-12">
+      <div class="col col-3">
+          <div class="block glass" style="text-align:center;">
+            <img src="assets/images/Mitchell1.jfif"></img>
+          </div>
+      </div>
+      <div class="col col-9">
+        <div class="block glass">
+            <div class="block-body">
+              <h2 style="display:block;">Hi, I'm Mitchell Dong.</h2>
+                <p class="grey-text" style="font-size:medium; margin-top:6px;">I'm a hedge fund manager, entrepreneur, investor and philanthropist. Today I run cryptocurrency trading hedge funds at <a href="https://pythagoras.investments">Pythagoras Investments</a>, invest through my family office, and give to public health causes. 
+                </p> 
+                <p class="grey-text"  style="font-size:medium; margin-top:6px;">Here I am sharing with you <a href="my-story">my entrepreneurial story.</a></p>
+              </div>
+        </div>
+      </div>  
+  </div>
+  <!-- <div class="col col-12">
+    {% for port in site.data.portfolio %}
+      <div class="col col-{{port.width}}">
+        <a href="{{port.href}}">
+        <div class="block" style="background-image:url(assets/{{port.img}})">
+            <div class="block-body height-{{port.height}}">              
+                <h2 class="align-bottom-right">
+                  {{ port.title }}
+                </h2>
+            </div>
+        </div>
+        </a>
+      </div>
+    {% endfor %}
+    </div> -->
+  
+    <!-- <div class="col col-12">
+    {% for post in site.posts %}
+      <div class="col col-{{post.width}}">
+        <div class="block {{post.color}}">
+            <div class="block-body height-{{post.height}}">
+                <span class="post-meta white-text">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+                <h2>
+                  <a class="post-link white-text" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                </h2>
+            </div>
+        </div>
+      </div>
+    {% endfor %}
+    </div> -->
+    <div class="col col-12">
+        <div class="block glass" style="text-align:center;">
+            <h2>My DNA</h2>
+            <div class="block-body">
+              <div class="dna-section">
+                <h3 class="margin-bot">Fund Manager</h3>
+                {% for role in site.data._manager %}
+                  <div>
+                  <span class="post-meta white-text">{{role.descr}}</span>
+                  </div>
+                {% endfor %}
+              </div>
+              <div class="dna-section"> 
+                <h3 class="margin-bot">Entrepreneur</h3>
+                  {% for role in site.data._entre %}
+                    <div>
+                    <span class="post-meta white-text">{{role.descr}}</span>
+                    </div>
+                  {% endfor %}
+              </div>
+              <div class="dna-section">
+                  <h3 class="margin-bot">Investor</h3>
+                    {% for role in site.data._invest %}
+                      <div>
+                      <span class="post-meta white-text">{{role.descr}}</span>
+                      </div>
+                    {% endfor %}
+              </div>
+              <div class="dna-section">
+                  <h3 class="margin-bot">Philanthropy</h3>
+                    {% for role in site.data._philanthropy %}
+                      <div>
+                      <span class="post-meta white-text">{{role.descr}}</span>
+                      </div>
+                    {% endfor %}
+                </div>
+                <!-- <h3 class="margin-bot">Skills</h3>                 -->
+                <!-- {% for skill in site.data.skills %}
+                <span class="post-meta white-text">{{skill.descr}}</span>
+                <div class="progress margin-bot"><div class="progress-{{skill.xp}}"></div></div>                
+                {% endfor %} -->
+            </div>
+        </div>
+    </div>
+</div>
