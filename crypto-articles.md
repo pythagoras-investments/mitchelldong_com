@@ -2,7 +2,7 @@
 layout: page
 title: Articles on Crypto
 permalink: /crypto-articles
-date:   2020-02-14 12:00:00 -0400
+date:   2020-02-25 12:00:00 -0400
 ---
 
 <div class="row" style="display:block;">
@@ -13,6 +13,7 @@ Informed by my experience running
 cryptocurrency trading hedge funds at <a href="https://pythagoras.investments">Pythagoras Investments</a>:</h5>
 <br/>
 <ul style="list-style-type: none;">
+  <li>[Feb 03, 2021] <a href="https://insightsfromleaders.medium.com/mitchell-dong-ac79a0769c3f" target="_blank">How Long Will Cryptocurrency Arbitrage Last?</a></li>
   <li>[Jan 13, 2021] <a href="https://impactmagazine.medium.com/mitchell-dong-15707842f240" target="_blank">Is the Driver Behind Bitcoin Prices the Plethora of Recent Big Endorsements?</a></li>
   <li>[Jan 12, 2021] <a href="https://coolbrandspeople.wordpress.com/2021/01/12/mitchell-dong-2/" target="_blank">Credit Risks of Digital Exchange</a></li>
   <li>[Jan 06, 2021] <a href="https://insightsfromleaders.medium.com/mitchell-dong-6ff7b0905773" target="_blank">What if Bitcoin Replaced Gold as an Inflation Hedge?</a></li>
