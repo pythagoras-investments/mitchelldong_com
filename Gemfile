@@ -4,4 +4,4 @@ gemspec
 
 #gem "github-pages", "~> 209", group: :jekyll_plugins
 
-gem "beautiful-jekyll-theme"
+#gem "beautiful-jekyll-theme"
