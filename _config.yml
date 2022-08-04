@@ -20,4 +20,5 @@ url: "https://mitchelldong.com" # the base hostname & protocol for your site
 markdown: kramdown
 
 js: [/assets/js/jquery-3.4.1.min.js, /assets/js/email.js]
-theme: beautiful-jekyll-theme
+# theme: beautiful-jekyll-theme
+remote_theme: daattali/beautiful-jekyll@5.0.0
