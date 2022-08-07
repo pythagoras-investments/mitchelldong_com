@@ -1,10 +1,8 @@
 ---
 layout: page
+title: Pythagoras Wins Award for Highest Risk Adjusted Returns Among Crypto Hedge Funds
 permalink: /pythagoras-wins-award-for-highest-risk-adjusted-returns-among-crypto-hedge-funds-2022/
 ---
-
-Pythagoras Wins Award for Highest Risk Adjusted Returns Among Crypto Hedge Funds
---------------------
  
 HedgeWeek presented Pythagoras with an award for the highest risk-adjusted returns among all crypto funds in the Barclay Hedge database.
  
