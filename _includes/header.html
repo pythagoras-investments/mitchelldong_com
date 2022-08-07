@@ -20,9 +20,12 @@
         {% for my_page in site.pages %}
           {% if my_page.title %}
           <!-- changed from site.baseurl -->
-          <a class="page-link" href="{{ my_page.url | prepend: page.baseurl }}">{{ my_page.title }}</a>
+          <!--a class="page-link" href="{{ my_page.url | prepend: page.baseurl }}">{{ my_page.title }}</a-->
           {% endif %}
         {% endfor %}
+        <a class="page-link" href="/crypto-articles">Articles on Crypto</a>
+        <a class="page-link" href="/my-story">My Story</a>
+        <a class="page-link" href="/news">News</a>
       </div>
     </nav>
 
