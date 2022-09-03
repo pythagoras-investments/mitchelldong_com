@@ -12,6 +12,7 @@ Selected crypto industry investment articles I've written. <br/>
 Informed by my experience running cryptocurrency trading hedge funds at <a href="https://pythagoras.investments">Pythagoras Investments</a>:</h5>
 <br/>
 <ul style="list-style-type: none;">
+  <li>[Sep 01, 2022] <a href="https://impactmagazine.medium.com/institutional-investors-move-from-crypto-vc-to-crypto-liquid-trading-strategies-36a66640a91e" target="_blank">Institutional Investors Move from Crypto VC to Crypto Liquid Trading Strategies</a></li>
   <li>[Aug 05, 2022] <a href="https://mitchelldong.com/pythagoras-wins-award-for-highest-risk-adjusted-returns-among-crypto-hedge-funds-2022/" target="_blank">Pythagoras Wins Award for Highest Risk Adjusted Returns Among Crypto Hedge Funds</a></li>
   <li>[Aug 04, 2022] <a href="https://medium.com/@marketing_56362/eth-merge-backwardation-in-the-forward-curve-coming-99d15967f89" target="_blank">ETH Merge: backwardation in the forward curve coming</a></li>
   <li>[Feb 03, 2021] <a href="https://insightsfromleaders.medium.com/mitchell-dong-ac79a0769c3f" target="_blank">How Long Will Cryptocurrency Arbitrage Last?</a></li>
