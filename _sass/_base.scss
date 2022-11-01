@@ -72,7 +72,8 @@ figcaption {
  * Lists
  */
 ul, ol {
-    margin-left: $spacing-unit;
+    /*margin-left: $spacing-unit;*/
+    margin-left: 14px;
 }
 
 li {
