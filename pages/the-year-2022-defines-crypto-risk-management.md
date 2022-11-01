@@ -56,3 +56,5 @@ Although the Pythagoras funds underperform long only or long-biased funds during
 
 Let me be clear here: past performance is not indicative of future results and trading in cryptocurrencies has greater risks than many other investments. Nevertheless, our track record demonstrates that in the past we successfully navigated the risks that we faced at that time. 
 
+
+Last Updated: Oct 15, 2022
