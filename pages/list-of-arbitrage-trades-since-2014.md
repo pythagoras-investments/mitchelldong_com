@@ -1,12 +1,11 @@
 ---
 layout: page
+title: List of Arbitrage Trades Since 2014
 permalink: /list-of-arbitrage-trades-since-2014/
 ---
 
-List of Arbitrage Trades Since 2014
---------------------
-
-The following are examples of arbitrage trades that Pythagoras has executed in our 8-year history. The rapid growth and complexities of cryptocurrencies have created excellent opportunities for arbitrage trading. Although specific trades may get “arbbed out”, new arbitrage opportunities continue to emerge.  
+The following are examples of arbitrage trades that Pythagoras has executed in our 8-year history. The rapid growth and complexities of cryptocurrencies have created excellent opportunities for
+ arbitrage trading. Although specific trades may get “arbbed out”, new arbitrage opportunities continue to emerge.  
 
 - Cross-exchange arbitrage 
     - Simultaneously bought bitcoin on Kraken and sold on Huobi 
