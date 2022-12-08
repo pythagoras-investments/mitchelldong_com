@@ -2,8 +2,25 @@
 layout: page
 title: News
 permalink: /news
-date:   2020-02-14 12:00:00 -0400
+date:   2022-12-05 12:00:00 -0400
 ---
+December 2022
+
+<ul style="list-style-type: none;">
+    <li>
+      [Dec 05, 2022] [ <b>TradeAlgo.com</b> China ] <a href="https://www.tradealgo.com/news/how-two-crypto-hedge-funds-avoided-the-market-crash">How Two Crypto Hedge Funds Avoided the Market Crash</a>
+    </li>
+    <li>
+      [Dec 05, 2022] [ <b>Bloomberg</b> ] <a href="https://www.bloomberg.com/news/articles/2022-12-04/two-pythagoras-crypto-hedge-funds-see-8-performance-gains-in-2022?srnd=premium-asia">How Two Crypto Hedge Funds Dodged the Market Collapse</a> <a
+            href="https://mitchelldong.com/how-two-crypto-hedge-funds-dodged-the-market-collapse/" target="_blank">Full Text </a>
+    </li>
+    <li>
+      [Dec 02, 2022] <a href="https://mitchelldong.com/the-pythagoras-arbitrage-fund-won-2022-HFM-asia-performance-award/">Pythagoras Arbitrage Fund won the 2022 HFM Asian Performance Award for the "Best
+      Digital Asset Fund"</a> <br>
+      <img src="/assets/images/hmf2022_award/2022_HFM_award3.png" alt="" width="400px">
+    </li>
+</ul>
+<br />
 
 February 2021
 
@@ -13,7 +30,7 @@ February 2021
       (Article in Chinese: <a style="font-size:18px;" href="http://cn.ft.com/story/001091336" target="_">
         华尔街WSB遇上加密领域，魔幻事件如何解读？</a>)
     </li>
-  </ul>
+</ul>
 <br />
 January 2021
 
