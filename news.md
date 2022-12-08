@@ -8,7 +8,7 @@ December 2022
 
 <ul style="list-style-type: none;">
     <li>
-      [Dec 05, 2022] [ <b>TradeAlgo.com</b> China ] <a href="https://www.tradealgo.com/news/how-two-crypto-hedge-funds-avoided-the-market-crash">How Two Crypto Hedge Funds Avoided the Market Crash</a>
+      [Dec 05, 2022] [ <b>TradeAlgo.com</b> ] <a href="https://www.tradealgo.com/news/how-two-crypto-hedge-funds-avoided-the-market-crash">How Two Crypto Hedge Funds Avoided the Market Crash</a>
     </li>
     <li>
       [Dec 05, 2022] [ <b>Bloomberg</b> ] <a href="https://www.bloomberg.com/news/articles/2022-12-04/two-pythagoras-crypto-hedge-funds-see-8-performance-gains-in-2022?srnd=premium-asia">How Two Crypto Hedge Funds Dodged the Market Collapse</a> <a
