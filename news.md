@@ -15,6 +15,9 @@ December 2022
             href="https://mitchelldong.com/how-two-crypto-hedge-funds-dodged-the-market-collapse/" target="_blank">Full Text </a>
     </li>
     <li>
+      [Dec 04, 2022] [ <b>worldjournal.com (世界新闻网)</b> ] Article in Chinese: <a href="https://www.worldjournal.com/wj/story/121477/6814888">加密幣慘遭血洗 華裔企業家曾良恩如何創下8%回報？</a>
+    </li>
+    <li>
       [Dec 02, 2022] <a href="https://mitchelldong.com/the-pythagoras-arbitrage-fund-won-2022-HFM-asia-performance-award/">Pythagoras Arbitrage Fund won the 2022 HFM Asian Performance Award for the "Best
       Digital Asset Fund"</a> <br>
       <img src="/assets/images/hmf2022_award/2022_HFM_award3.png" alt="" width="400px">
