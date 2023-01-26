@@ -8,6 +8,10 @@ December 2022
 
 <ul style="list-style-type: none;">
     <li>
+      [Jan 25, 2023] [ <b>coindesk.com</b> ] <a href="https://www.coindesk.com/business/2023/01/25/how-a-crypto-quant-firm-shook-off-the-bear-market-and-ftx-exposure/">How a Crypto Quant Firm Shook
+      Off the Bear Market and FTX Exposure</a>
+    </li>
+    <li>
       [Dec 05, 2022] [ <b>TradeAlgo.com</b> ] <a href="https://www.tradealgo.com/news/how-two-crypto-hedge-funds-avoided-the-market-crash">How Two Crypto Hedge Funds Avoided the Market Crash</a>
     </li>
     <li>
